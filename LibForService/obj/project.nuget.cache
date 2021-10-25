@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffxtZUOUVn8AqjLqcYe/y24Ukl4podSK0rRrhTdGO7NLdboJUVtfA9Zsn/XquYWH4HfMlN9+NRiE5d+0XuZs/w==",
+  "success": true,
+  "projectFilePath": "D:\\11_Проекты c#\\1 блок ШИ\\Service_Колесников\\LibForService\\LibProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koles\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\koles\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

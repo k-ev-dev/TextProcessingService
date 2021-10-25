@@ -1,0 +1,7 @@
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\ServiceClient\bin\Debug\ServiceClient.exe.config
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\ServiceClient\bin\Debug\ServiceClient.exe
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\ServiceClient\bin\Debug\ServiceClient.pdb
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\ServiceClient\obj\Debug\ServiceClient.csproj.CoreCompileInputs.cache
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\ServiceClient\obj\Debug\ServiceClient.exe
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\ServiceClient\obj\Debug\ServiceClient.pdb
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\ServiceClient\obj\Debug\ServiceClient.csproj.AssemblyReference.cache

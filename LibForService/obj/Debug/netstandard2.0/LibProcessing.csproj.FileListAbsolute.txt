@@ -1,0 +1,29 @@
+D:\11_Проекты c#\LibProcessing\bin\Debug\netstandard2.0\LibProcessing.deps.json
+D:\11_Проекты c#\LibProcessing\bin\Debug\netstandard2.0\LibProcessing.dll
+D:\11_Проекты c#\LibProcessing\bin\Debug\netstandard2.0\LibProcessing.pdb
+D:\11_Проекты c#\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\11_Проекты c#\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.AssemblyInfoInputs.cache
+D:\11_Проекты c#\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.AssemblyInfo.cs
+D:\11_Проекты c#\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.csproj.CoreCompileInputs.cache
+D:\11_Проекты c#\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.dll
+D:\11_Проекты c#\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.pdb
+D:\11_Проекты c#\1 блок ШИ\Многопоточность_2 — копия\LibProcessing\bin\Debug\netstandard2.0\LibProcessing.deps.json
+D:\11_Проекты c#\1 блок ШИ\Многопоточность_2 — копия\LibProcessing\bin\Debug\netstandard2.0\LibProcessing.dll
+D:\11_Проекты c#\1 блок ШИ\Многопоточность_2 — копия\LibProcessing\bin\Debug\netstandard2.0\LibProcessing.pdb
+D:\11_Проекты c#\1 блок ШИ\Многопоточность_2 — копия\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.csproj.AssemblyReference.cache
+D:\11_Проекты c#\1 блок ШИ\Многопоточность_2 — копия\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\11_Проекты c#\1 блок ШИ\Многопоточность_2 — копия\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.AssemblyInfoInputs.cache
+D:\11_Проекты c#\1 блок ШИ\Многопоточность_2 — копия\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.AssemblyInfo.cs
+D:\11_Проекты c#\1 блок ШИ\Многопоточность_2 — копия\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.csproj.CoreCompileInputs.cache
+D:\11_Проекты c#\1 блок ШИ\Многопоточность_2 — копия\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.dll
+D:\11_Проекты c#\1 блок ШИ\Многопоточность_2 — копия\LibProcessing\obj\Debug\netstandard2.0\LibProcessing.pdb
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\LibForService\bin\Debug\netstandard2.0\LibProcessing.deps.json
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\LibForService\bin\Debug\netstandard2.0\LibProcessing.dll
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\LibForService\bin\Debug\netstandard2.0\LibProcessing.pdb
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\LibForService\obj\Debug\netstandard2.0\LibProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\LibForService\obj\Debug\netstandard2.0\LibProcessing.AssemblyInfoInputs.cache
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\LibForService\obj\Debug\netstandard2.0\LibProcessing.AssemblyInfo.cs
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\LibForService\obj\Debug\netstandard2.0\LibProcessing.csproj.CoreCompileInputs.cache
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\LibForService\obj\Debug\netstandard2.0\LibProcessing.dll
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\LibForService\obj\Debug\netstandard2.0\LibProcessing.pdb
+D:\11_Проекты c#\1 блок ШИ\Service_Колесников\LibForService\obj\Debug\netstandard2.0\LibProcessing.csproj.AssemblyReference.cache
